@@ -45,7 +45,7 @@ function showScores() {
 	imgs.src = "table.png";
 	var src = document.getElementById("footing");
 	 
-	src.appendChild(imgs) = gameOverHTML;*/
+	src.appendChild(imgs) = gameOverHTML;sds*/
 };
 
 
