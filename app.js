@@ -35,7 +35,7 @@ function showProgress() {
 };
 
 function showScores() {
-    var gameOverHTML = "<h1>How good are your eyes? </h1> <img src = 'table.PNG' width:200px> </img>";
+    var gameOverHTML = "<h1>How good are your eyes? </h1> <img src = 'table.png' width:200px> </img>";
     gameOverHTML += "<h2 id='score'> Your scores: " + quiz.score + "</h2>";
     var element = document.getElementById("quiz");
     element.innerHTML = gameOverHTML;
